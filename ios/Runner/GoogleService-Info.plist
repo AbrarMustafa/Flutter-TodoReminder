@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>463891460324-7su4vruued94jq80brm8diarc5dnmvrs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.463891460324-7su4vruued94jq80brm8diarc5dnmvrs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAMfX7lwuB6GOlNl3FidAtR72szPRs-_Sk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>463891460324</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>todo.reminder.todo</string>
+	<key>PROJECT_ID</key>
+	<string>todo-reminder-5c743</string>
+	<key>STORAGE_BUCKET</key>
+	<string>todo-reminder-5c743.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:463891460324:ios:7820f69fa2184b36</string>
+	<key>DATABASE_URL</key>
+	<string>https://todo-reminder-5c743.firebaseio.com</string>
+</dict>
+</plist>

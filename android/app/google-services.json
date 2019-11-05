@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "463891460324",
+    "firebase_url": "https://todo-reminder-5c743.firebaseio.com",
+    "project_id": "todo-reminder-5c743",
+    "storage_bucket": "todo-reminder-5c743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463891460324:android:7820f69fa2184b36",
+        "android_client_info": {
+          "package_name": "todo.reminder.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463891460324-b7dsjp0ln56bconetepos0pvdc16jg7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ7IK-ZcVuo3mk856WNHi02FPyqSxCFlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463891460324-b7dsjp0ln56bconetepos0pvdc16jg7n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463891460324-7su4vruued94jq80brm8diarc5dnmvrs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "todo.reminder.todo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
